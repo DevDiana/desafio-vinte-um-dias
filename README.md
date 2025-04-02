@@ -9,7 +9,7 @@ Marque os desafios concluídos com um ✅.
 ## 🚀 Desafios
 
 ### 📅 Dia 1 - O que é um algoritmo?
-- [ ] Escreva as instruções detalhadas para fazer um **copo de café**. Isso ajudará a entender como um computador segue ordens passo a passo.
+- [x] Escreva as instruções detalhadas para fazer um **copo de café**. Isso ajudará a entender como um computador segue ordens passo a passo.
 
 ### 📅 Dia 2 - Sequência lógica
 - [ ] Imagine que um robô precisa escovar os dentes. Escreva as etapas detalhadas dessa ação para aprender sobre sequenciamento lógico.
