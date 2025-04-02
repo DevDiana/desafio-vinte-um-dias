@@ -9,7 +9,7 @@ Marque os desafios concluídos com um ✅.
 ## 🚀 Desafios
 
 ### 📅 Dia 1 - O que é um algoritmo?
-- [ ] Escreva as instruções detalhadas para fazer um **copo de café**. Isso ajudará a entender como um computador segue ordens passo a passo.
+- [x] Escreva as instruções detalhadas para fazer um **copo de café**. Isso ajudará a entender como um computador segue ordens passo a passo.
 
 ### 📅 Dia 2 - Sequência lógica
 - [ ] Imagine que um robô precisa escovar os dentes. Escreva as etapas detalhadas dessa ação para aprender sobre sequenciamento lógico.
@@ -58,8 +58,6 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 17 - Soma de números
 - [ ] Criar um programa que some todos os números até o valor inserido pelo usuário.
-
-### 📅 Dia 18 - Arrays (listas)
 
 ### 📅 Dia 18 - Arrays (listas)
 - [ ] Criar um programa que armazene 3 frutas e exiba cada uma no console.
