@@ -12,7 +12,7 @@ Marque os desafios concluídos com um ✅.
 - [x] Escreva as instruções detalhadas para fazer um **copo de café**. Isso ajudará a entender como um computador segue ordens passo a passo.
 
 ### 📅 Dia 2 - Sequência lógica
-- [ ] Imagine que um robô precisa escovar os dentes. Escreva as etapas detalhadas dessa ação para aprender sobre sequenciamento lógico.
+- [x] Imagine que um robô precisa escovar os dentes. Escreva as etapas detalhadas dessa ação para aprender sobre sequenciamento lógico.
 
 ### 📅 Dia 3 - Variáveis e saída de dados
 - [ ] Exibir no console o nome e a idade do usuário. Aqui você aprenderá sobre armazenamento de informações em variáveis.
