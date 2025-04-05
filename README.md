@@ -24,7 +24,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 4 - Operações matemáticas
 
-- [ ] Criar um programa que some, subtraia, multiplique e divida dois números. Assim, você aprenderá a fazer cálculos básicos no código.
+- [x] Criar um programa que some, subtraia, multiplique e divida dois números. Assim, você aprenderá a fazer cálculos básicos no código.
 
 ### 📅 Dia 5 - Entrada de dados
 
