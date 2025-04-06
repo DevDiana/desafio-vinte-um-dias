@@ -28,7 +28,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 5 - Entrada de dados
 
-- [ ] Peça para o usuário digitar um número e exiba o dobro desse número. Isso ensinará como interagir com o usuário.
+- [x] Peça para o usuário digitar um número e exiba o dobro desse número. Isso ensinará como interagir com o usuário.
 
 ### 📅 Dia 6 - Desafio prático
 
