@@ -32,7 +32,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 6 - Desafio prático
 
-- [ ] Criar um programa que peça dois números ao usuário e exiba a soma deles, reforçando a entrada e manipulação de dados.
+- [x] Criar um programa que peça dois números ao usuário e exiba a soma deles, reforçando a entrada e manipulação de dados.
 
 ### 📅 Dia 7 - Revisão e desafios extras
 
