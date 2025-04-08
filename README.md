@@ -36,7 +36,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 7 - Revisão e desafios extras
 
-- [ ] Testar tudo o que aprendeu até agora criando um pequeno programa.
+- [x] Testar tudo o que aprendeu até agora criando um pequeno programa.
 
 ### 📅 Dia 8 - If/Else (Se/Senão)
 
