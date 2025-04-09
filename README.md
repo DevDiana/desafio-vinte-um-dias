@@ -40,7 +40,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 8 - If/Else (Se/Senão)
 
-- [ ] Criar um programa que pergunte a idade do usuário e diga se ele é maior ou menor de idade, aprendendo sobre tomada de decisões no código.
+- [x] Criar um programa que pergunte a idade do usuário e diga se ele é maior ou menor de idade, aprendendo sobre tomada de decisões no código.
 
 ### 📅 Dia 9 - Par ou ímpar?
 
