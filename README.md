@@ -44,7 +44,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 9 - Par ou ímpar?
 
-- [ ] Criar um programa que peça um número e informe se ele é par ou ímpar.
+- [x] Criar um programa que peça um número e informe se ele é par ou ímpar.
 
 ### 📅 Dia 10 - Comparações
 
