@@ -48,7 +48,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 10 - Comparações
 
-- [ ] Criar um programa que compare dois números e diga se são iguais ou diferentes.
+- [x] Criar um programa que compare dois números e diga se são iguais ou diferentes.
 
 ### 📅 Dia 11 - Desafio prático
 
