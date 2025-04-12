@@ -52,7 +52,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 11 - Desafio prático
 
-- [ ] Criar um programa que informe se um número é positivo, negativo ou zero.
+- [x] Criar um programa que informe se um número é positivo, negativo ou zero.
 
 ### 📅 Dia 12 - Switch case
 
