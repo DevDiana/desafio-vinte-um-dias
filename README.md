@@ -56,11 +56,11 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 12 - Switch case
 
-- [ ] Criar um programa que receba um número (1 a 7) e exiba o nome do dia correspondente, praticando estruturas de decisão mais organizadas.
+- [x] Criar um programa que receba um número (1 a 7) e exiba o nome do dia correspondente, praticando estruturas de decisão mais organizadas.
 
 ### 📅 Dia 13 - Sistema de login simples
 
-- [ ] Criar um programa que peça nome e senha e valide o acesso, introduzindo conceitos básicos de autenticação.
+- [x] Criar um programa que peça nome e senha e valide o acesso, introduzindo conceitos básicos de autenticação.
 
 ### 📅 Dia 14 - Revisão e desafio extra
 
