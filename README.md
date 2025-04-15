@@ -64,7 +64,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 14 - Revisão e desafio extra
 
-- [ ] Criar um jogo de perguntas e respostas utilizando if/else para reforçar o aprendizado.
+- [x] Criar um jogo de perguntas e respostas utilizando if/else para reforçar o aprendizado.
 
 ### 📅 Dia 15 - Laço de repetição - While
 
