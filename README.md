@@ -68,7 +68,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 15 - Laço de repetição - While
 
-- [ ] Criar um programa que conte de 1 a 10 para entender como funcionam loops.
+- [x] Criar um programa que conte de 1 a 10 para entender como funcionam loops.
 
 ### 📅 Dia 16 - Laço de repetição - For
 
