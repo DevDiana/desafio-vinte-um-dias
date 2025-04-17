@@ -72,7 +72,7 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 16 - Laço de repetição - For
 
-- [ ] Criar um programa que peça um número e exiba a tabuada dele.
+- [x] Criar um programa que peça um número e exiba a tabuada dele.
 
 ### 📅 Dia 17 - Soma de números
 
