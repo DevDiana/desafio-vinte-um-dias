@@ -76,11 +76,11 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 17 - Soma de números
 
-- [ ] Criar um programa que some todos os números até o valor inserido pelo usuário.
+- [x] Criar um programa que some todos os números até o valor inserido pelo usuário.
 
 ### 📅 Dia 18 - Arrays (listas)
 
-- [ ] Criar um programa que armazene 3 frutas e exiba cada uma no console.
+- [x] Criar um programa que armazene 3 frutas e exiba cada uma no console.
 
 ### 📅 Dia 19 - Percorrendo listas
 
