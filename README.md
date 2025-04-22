@@ -84,15 +84,15 @@ Marque os desafios concluídos com um ✅.
 
 ### 📅 Dia 19 - Percorrendo listas
 
-- [ ] Criar um programa que receba uma lista de números e exiba apenas os pares.
+- [x] Criar um programa que receba uma lista de números e exiba apenas os pares.
 
 ### 📅 Dia 20 - Gerenciador de nomes
 
-- [ ] Criar um programa que permita adicionar nomes a uma lista e depois exiba todos os nomes.
+- [x] Criar um programa que permita adicionar nomes a uma lista e depois exiba todos os nomes.
 
 ### 📅 Dia 21 - PROJETO FINAL 🎉
 
-- [ ] Criar um jogo "Adivinhe o número":
+- [x] Criar um jogo "Adivinhe o número":
   1. O computador escolhe um número aleatório de 1 a 10.
   2. O usuário tenta adivinhar.
   3. O jogo diz se o número é maior ou menor.
